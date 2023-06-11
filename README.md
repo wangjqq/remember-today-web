@@ -1,34 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 这是今日有记的官网
 
-## Getting Started
+## 由 Next.js 构建
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 今日有记是一个集记账和记日程于一体的 APP，今日有记为您提供了一个方便、高效、智能的记账和记日程的解决方案。您可以通过今日有记来记录您的收入和支出，管理您的财务状况，规划您的预算和理财目标。您也可以通过今日有记来安排您的日常事务，设置提醒和任务，跟踪您的进度和成就。今日有记还可以根据您的习惯和偏好，为您提供个性化的建议和分析，帮助您更好地掌控您的时间和金钱。今日有记是您的贴心小助手，让您的生活更加有序、有趣、有意义。
