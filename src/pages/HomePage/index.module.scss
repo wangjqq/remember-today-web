@@ -1,0 +1,33 @@
+@media screen and (max-width: 992px) {
+  .header {
+    margin: 20px 3px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .header {
+    margin: 30px;
+  }
+}
+.header {
+  img {
+    display: inline;
+  }
+  ul {
+    display: inline-block;
+    li {
+      display: inline-block;
+      margin: 0 25px;
+      padding-bottom: 10px;
+      width: 50px;
+      text-align: center;
+      cursor: pointer;
+      &:hover {
+        color: rgb(0, 157, 255);
+      }
+    }
+    .active {
+      color: rgb(0, 157, 255);
+      border-bottom: 1px solid rgb(0, 157, 255);
+    }
+  }
+}
